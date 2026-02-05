@@ -1,0 +1,41 @@
+# Jupyter Notebook auto-generated files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Dataset folders (not uploaded)
+dataset/
+data/
+images/
+dogs/
+cats/
+train/
+test/
+validation/
+
+# Saved models (if any)
+*.h5
+*.keras
+*.pth
+*.pt
+*.pkl
+
+# Logs / outputs
+logs/
+outputs/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment variables
+.env
